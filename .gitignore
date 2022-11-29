@@ -33,3 +33,4 @@ build/
 .vscode/
 _pycache_/
 /backend/token
+.github/
